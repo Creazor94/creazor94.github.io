@@ -1,0 +1,1 @@
+jQuery(document).ready(function(n){n(".main-nav .menu-icon").on("click",function(){n(this).closest(".main-nav").find(".links").slideToggle(300)})});
